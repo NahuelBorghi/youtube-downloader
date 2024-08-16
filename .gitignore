@@ -1,0 +1,20 @@
+# Carpetas generadas por PyInstaller
+build/
+dist/
+
+# Archivos temporales y compilados
+*.spec
+__pycache__/
+*.pyc
+*.pyo
+
+# Archivos de sistema
+.DS_Store
+*.log
+
+# Carpeta de entorno virtual
+venv/
+
+# Carpetas y archivos generados por el programa
+descargas/
+*.mp3
