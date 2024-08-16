@@ -50,6 +50,9 @@ El script te pedirá ingresar el nombre o frase a buscar en YouTube. Puedes sele
 
 Este proyecto incluye `ffmpeg` para la conversión de archivos de audio. `ffmpeg` está licenciado bajo la **Licencia GNU General Public License v3.0 (GPL v3)**. Puedes encontrar los archivos de licencia y la documentación en la carpeta `ffmpeg` incluida en el repositorio.
 
+## Disclaimer
+
+El uso de este software es bajo tu propio riesgo. El autor no se hace responsable del uso que le des a los audios descargados de YouTube. Asegúrate de cumplir con todas las leyes y regulaciones aplicables en tu país antes de utilizar el software para descargar contenido. El contenido descargado debe usarse únicamente para fines personales y no comerciales.
 
 ## Contribuciones
 
