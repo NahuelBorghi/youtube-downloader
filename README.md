@@ -46,7 +46,10 @@ python main.py
 
 El script te pedirá ingresar el nombre o frase a buscar en YouTube. Puedes seleccionar un video de la lista de resultados y descargar el audio en formato mp3.
 
-Para salir del programa en cualquier momento, escribe "salir" cuando se te solicite ingresar una búsqueda.
+## Inclusión de ffmpeg
+
+Este proyecto incluye `ffmpeg` para la conversión de archivos de audio. `ffmpeg` está licenciado bajo la **Licencia GNU General Public License v3.0 (GPL v3)**. Puedes encontrar los archivos de licencia y la documentación en la carpeta `ffmpeg` incluida en el repositorio.
+
 
 ## Contribuciones
 
